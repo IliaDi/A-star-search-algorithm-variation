@@ -5,6 +5,7 @@ A star search reference: https://en.wikipedia.org/wiki/A*_search_algorithm
 **To run**
 
 1)From code folder: java Taxi path/to/csvs/ 
+
 2) To convert taxiI.out files to kml files (from code folders)
 	 ./make_kml.sh code/folder_with_out_files result.kml
 	 
